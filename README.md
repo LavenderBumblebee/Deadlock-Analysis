@@ -24,9 +24,7 @@
 
 <br>
 </h3>
-
-<h4 align = 'center'> Note</h4>
-
+<p align = 'center'> <b> Note : </b></p>
 <p align = 'center'> <b> All the data I used was collected on May 20, 2026 during Deadlock's 04/30/2026 patch. </b></p>
   <p align ='center'> The raw data I collected to make into my own excel sheet for analysis came following website - <br> 
     https://tracklock.gg/heroes-tier-list/2026-04-30/all/initiate </p>
