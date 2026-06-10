@@ -20,7 +20,7 @@
   <br>
 
   
-[Take a look at this excel sheet I made of the Deadlock Data i manually collected to conduct analysis here!](https://github.com/user-attachments/files/28781211/Deadlock_Data_analysis_project.xlsx)
+[Take a look at this excel sheet I made of the Deadlock Data i compiled to conduct analysis here!](https://github.com/user-attachments/files/28781211/Deadlock_Data_analysis_project.xlsx)
 
 <br>
 </h3>
