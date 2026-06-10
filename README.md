@@ -2,7 +2,7 @@
 
 <p>This github repository is dedicated to my own Deadlock analysis using data that I manually compiled from available third party sources. I created this project because there was no publically available data file on <b>Character Win/Pick Rates </b> for people to do their own custom analysis. 
 
-<b>Below you will find a custom excel sheet I created for a analysis of Deadlock character rates, along with a pdf file documenting the findings from my analyses.</b>   
+<b>Below you will find links to the custom excel sheet I created for a analysis of Deadlock character rates, along with a pdf file documenting the findings from my analyses.</b>   
 </p>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38815e11-72fd-45e1-ad1c-ef9a2a148977" />
