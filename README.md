@@ -1,7 +1,6 @@
 <h1 align = 'center'> Deadlock Analysis </h1>
 
-<p>This github repository is dedicated to my own Deadlock analysis using data that I manually compiled from available third party sources. <br>
-I created this project because there was no publically available data file on <b>Character Win/Pick Rates </b> for people to do their own custom analysis. 
+<p>This github repository is dedicated to my own Deadlock analysis using data that I manually compiled from available third party sources. I created this project because there was no publically available data file on <b>Character Win/Pick Rates </b> for people to do their own custom analysis. 
 
 <b>Below you will find a custom excel sheet I created for a analysis of Deadlock character rates, along with a pdf file of the findings from my analyses.</b>   
 </p>
