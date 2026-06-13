@@ -25,7 +25,8 @@
   <br>
 
   
-[Take a look at the Excel Sheet I compiled for the analysis of Deadlock Data here!](https://github.com/user-attachments/files/28781211/Deadlock_Data_analysis_project.xlsx)
+[Take a look at the Excel Sheet I compiled for the analysis of Deadlock Data here!](https://github.com/user-attachments/files/28906472/Deadlock_Data_analysis_project.xlsx)
+
 </h3>
 <p align ='center'> Feel free to download my excel sheet to conduct your own analysis! As part of the purpose of making this project was to create a publicly available Deadlock file for others to more easily conduct analysis on.</p>
 
